@@ -1,0 +1,10 @@
+customer_id,name,email,city
+1,Alice Johnson,alice.johnson@example.com,Chicago
+2,Robert Singh,,New York
+3,Emma Carter,emma.carter@example.com,Chicago
+4,Daniel Kim,,San Francisco
+5,Sophia Patel,sophia.patel@example.com,Los Angeles
+6,Michael Brown,michael.brown@example.com,Chicago
+7,David Lee,,Miami
+8,Olivia Green,olivia.green@example.com,Chicago
+9,James White,james.white@example.com,New York
