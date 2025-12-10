@@ -44,9 +44,3 @@ Create a cleaned version of:
 Save final queries in `04_data_cleaning_tasks.sql`.
 
 ---
-
-## GitHub Deliverables
-- Upload each `.sql` file.
-- Upload screenshots of your query results to `/assets/screenshots/`.
-- Commit message suggestion:  
-  **"Day 1: SQL Basics + Data Cleaning — completed queries and datasets"**
