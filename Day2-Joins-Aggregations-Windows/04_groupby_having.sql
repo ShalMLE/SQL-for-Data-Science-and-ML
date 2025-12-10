@@ -1,1 +1,7 @@
-
+-- Task 1: Customers with total spend > 100
+-- Task 2: Products with total units sold < 10
+-- Task 3: Customers with avg order amount > 50
+-- Task 4: Monthly revenue > 5000
+-- Task 5: Product categories with revenue > 1000
+-- Task 6: Customers with more than 3 purchases
+-- Task 7: Vendors with more than 1 product (if applicable)
