@@ -53,7 +53,8 @@ Lead/lag comparisons
 
 ML feature engineering
 
-5. Hands-On Tasks 
+5. Hands-On Tasks
+   
 Joins
 
   Join customers and orders
@@ -81,7 +82,11 @@ Window Functions
 6. Files in This Folder
    
   01_joins_practice.sql
+  
   02_aggregations_business_metrics.sql
+  
   03_window_functions_feature_engineering.sql
+  
   04_groupby_having.sql
-README.md
+  
+  README.md
